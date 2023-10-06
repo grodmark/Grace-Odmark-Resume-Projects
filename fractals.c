@@ -1,4 +1,4 @@
-// file name sierpmain.c
+// file name fractals.c
 // author: Grace Odmark
 
 
